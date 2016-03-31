@@ -13,7 +13,7 @@ import android.widget.VideoView;
 import yipengy.com.artist.R;
 
 /**
- * Created by mitayun on 3/30/16.
+ * Fragment to display video screen.
  */
 public class VideoFragment extends Fragment {
 

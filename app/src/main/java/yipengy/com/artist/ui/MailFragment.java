@@ -11,11 +11,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import yipengy.com.artist.MainActivity;
 import yipengy.com.artist.R;
 
 /**
- * Created by mitayun on 3/30/16.
+ * Fragment for sending mail
  */
 public class MailFragment extends Fragment {
 

@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import yipengy.com.artist.R;
 
 /**
- * Created by mitayun on 3/30/16.
+ * Fragment to display main screen
  */
 public class HomeFragment extends Fragment {
 

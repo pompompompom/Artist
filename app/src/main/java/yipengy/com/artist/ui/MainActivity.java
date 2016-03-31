@@ -1,4 +1,4 @@
-package yipengy.com.artist;
+package yipengy.com.artist.ui;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import yipengy.com.artist.R;
 import yipengy.com.artist.ui.HomeFragment;
 import yipengy.com.artist.ui.MailFragment;
 import yipengy.com.artist.ui.MusicFragment;

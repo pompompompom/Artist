@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 /**
- * Created by mitayun on 3/30/16.
+ * Fragment to display songs screen
  */
 public class MusicFragment extends Fragment {
     MediaPlayer mediaPlayer;
